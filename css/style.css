@@ -103,3 +103,61 @@ body {
   right: -100px;
   z-index: -1;
 }
+
+@media (max-width: 1200px) {
+
+  .content {
+    grid-template-columns: 1fr;
+  }
+
+  .copo-container {
+    text-align: center;
+  }
+
+  .copo-container::after {
+    top: -140px;
+    right: -50px;
+
+  }
+}
+
+@media (max-width: 900px) {
+  .copo-container {
+    display: none;
+  }
+
+  .header {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .titulo {
+    font-size: 1.25rem;
+    width: 350px;
+  }
+
+  .redes-container {
+    display: flex;
+    gap: 300px;
+  }
+
+  .call-to-action-container {
+    display: grid;
+    gap: 350px;
+  }
+
+  .order {
+    text-align: center;
+  }
+
+  .redes-sociais {
+    justify-self: end center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 800px) {
+  .content {
+    justify-content: center;
+  }
+}
