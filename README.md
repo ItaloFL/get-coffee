@@ -21,9 +21,10 @@
 
   <img src='https://cdn.discordapp.com/attachments/743206177030275115/912856461187624970/unknown.png'>
   
-  Esse é o projeto no -[Figma](https://www.figma.com/file/lVkh41YvYiMposXwaJXOYO/get-coffee-layout?node-id=59%3A5), clique para abri-lo.
+  Esse é o projeto no [Figma](https://www.figma.com/file/lVkh41YvYiMposXwaJXOYO/get-coffee-layout?node-id=59%3A5), clique para abri-lo.
 
 ---
+
 # 📜 Sobre o projeto
 
 O Projeto foi feito com o intuito de melhorar as minhas habilidade como front-end, esse desafio foi tirado do Devchallenge que é um site de desafios onde tem desafios tanto de back-end e front-end, recomendo caso queira melhorar.
